@@ -32,12 +32,14 @@
 
 ### 📂 Featured Projects
 
+### 📂 Featured Projects
+
 | Project | Description | Tools |
 |---|---|---|
+| 🏥 [COVID-19 ETL Pipeline](https://github.com/Anjum-Kumawat/covid-etl-pipeline) | End-to-end ETL pipeline, 231 countries | Airflow, dbt, MySQL, Docker, Power BI |
 | 🌍 [Air Quality EDA](https://github.com/Anjum-Kumawat/air-quality-analysis) | 26k+ records, 41 countries | Python, Plotly, Seaborn |
 | 💰 [Binance Spark Lakehouse](https://github.com/Anjum-Kumawat/binance-spark-lakehouse) | Real-time Bitcoin tracking | Kafka, Spark, Streamlit |
 | 🏦 [Loan EDA](https://github.com/Anjum-Kumawat/EDA-for-Loan-Department) | 300k records, risk analysis | Python, Pandas, NumPy |
-
 ---
 
 ### 📈 GitHub Stats
