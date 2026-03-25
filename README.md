@@ -35,8 +35,6 @@
 
 ### 📂 Featured Projects
 
-### 📂 Featured Projects
-
 | Project | Description | Tools |
 |---|---|---|
 | 🏥 [COVID-19 ETL Pipeline](https://github.com/Anjum-Kumawat/covid-etl-pipeline) | End-to-end ETL pipeline, 231 countries | Airflow, dbt, MySQL, Docker, Power BI |
